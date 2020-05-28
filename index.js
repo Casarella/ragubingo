@@ -37,7 +37,8 @@ $(function() {
 		"Good transition into sponsor",
 		"Fence-sitting an argument",
 		"Q&A with double-downing on arguments",
-		"Parading a kitchen 'hack' as a life changing thing"
+		"Parading a kitchen 'hack' as a life changing thing",
+		"But you do you"
 	];
 	
 	var winners = [
