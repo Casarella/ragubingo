@@ -1,0 +1,40 @@
+body {
+	font-family: sans-serif;
+	background-image: url("https://www.seriouseats.com/recipes/images/2014/09/20140919-easy-italian-american-red-sauce-vicky-wasik-19-1500x1125.jpg");
+  background-size: cover;
+	max-width: 700px;
+	margin: auto;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+}
+
+table {
+	border-collapse: collapse;
+	background-color: white;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+th {
+	width: 150px;
+	height: 100px;
+}
+
+.clicked {
+	background-color: red;
+	color: white;
+}
+
+table {
+	-webkit-touch-callout: none;
+	-webkit-user-select: none;
+	-khtml-user-select: none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+}
