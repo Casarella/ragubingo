@@ -2,30 +2,42 @@ $(function() {
 	console.log("loaded");
 	
 	var spaces = [
-		"Brits would say...",
+		"As the Brits would say...",
 		"Italian-American cuisine",
+		"Good ol' fashioned American cuisine",
 		"Burnt food",
 		"Rehashing previous recipe",
+		"More pizza",
 		"My Italian grandmother made it this way",
 		"Dangerous technique",
 		"Self righteous opinion presented as fact",
-		"Dubious sponsorship within seconds of video starting",
+		"Sponsorship within seconds of video starting",
 		"Show me the science",
 		"I think...",
 		"Poor technique because \"I don't care\"",
 		"Here's WHY",
 		"Set from a horror film",
 		"Unintentional poor technique",
-		"THAT is not a thing I'm going to do",
+		"THAT isn't a thing I'm going to do",
 		"Poor transition into sponsor",
 		"HETERO-GENEITY",
 		"Subtle bicep flex",
-		"Lowering your own expectations",
+		"Lower your expectations",
 		"Way too much salt",
 		"Says science",
 		"Poor planting or presentation",
+		"A lot of chefs say...",
 		"Way too little salt",
-		"White wine"
+		"White wine",
+		"As a home chef",
+		"\"I'm giving this a headstart on the stove first\"",
+		"Convection setting if you have it",
+		"Use of some obscure Latin phrase",
+		"Casually dropping scientific terminology",
+		"Good transition into sponsor",
+		"Fence-sitting an argument",
+		"Q&A with double-downing on arguments",
+		"Parading a kitchen 'hack' as a life changing thing"
 	];
 	
 	var winners = [
