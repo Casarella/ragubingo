@@ -1,4 +1,6 @@
 $(function() {
+	console.log("loaded");
+	
 	var spaces = [
 		"Brits would say...",
 		"Italian-American cuisine",
